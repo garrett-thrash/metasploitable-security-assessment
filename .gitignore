@@ -1,0 +1,27 @@
+
+# Network packet captures
+*.pcap
+*.pcapng
+
+# Sensitive information
+.env
+.env.*
+*.key
+*.pem
+credentials.txt
+passwords.txt
+
+# Virtual machine files
+*.vdi
+*.vmdk
+*.ova
+*.vbox
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Temporary editor files
+*.swp
+*.swo
+*~
